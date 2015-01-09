@@ -267,3 +267,7 @@ class MemeOn(BotPlugin):
     @botcmd
     def safety(self, mess, args):
         return "http://safety-cup.com/images/safety-cup.gif"
+
+    @botcmd
+    def viking(self, mess, args):
+        return "http://www.gifbin.com/bin/1232904646_Techno%20viking.gif"
